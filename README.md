@@ -81,7 +81,7 @@ Before starting this practical, ensure you have:
 Pull the git repo:
 
 ```bash
-github.com/jgillespie93/bioinformatics-workshop
+github.com/jgillespie93/Bioinformatics_Workshop_Gillespie
 
 ```
 Navigate to the bioinformatics workshop folder in terminal
