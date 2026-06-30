@@ -92,7 +92,7 @@ cd Downloads/Bioinformatics_Workshop_Gillespie
 Pull the prebuilt Docker image:
 
 ```bash
-docker pull bioinf-workshop
+docker pull jgillespie93/bioinf-workshop
 ```
 Start Jupyter Lab:
 
