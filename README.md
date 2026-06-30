@@ -102,7 +102,7 @@ docker pull jgillespie93/bioinf-workshop
 Start Jupyter Lab:
 
 ```bash
-docker run -p 8888:8888 -v $(pwd):/workspace bioinf-workshop
+docker run -p 8888:8888 -v $(pwd):/workspace jgillespie93/bioinf-workshop
 
 ```
 Then in your browser open
