@@ -91,7 +91,7 @@ cd Downloads/Bioinformatics_Workshop_Gillespie
 ```
 Download large genome files from Onedrive and place them inside Bioinformatics folder
 ```bash
-https://qubstudentcloud-my.sharepoint.com/personal/3059442_ads_qub_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F3059442%5Fads%5Fqub%5Fac%5Fuk%2FDocuments%2FBioinformatics%5Fworkshop&ga=1
+https://drive.google.com/drive/folders/1IBFM_uujpjP5pBhR7YPQ2MKVVEYcRuzk?usp=share_link
 
 ```
 Pull the prebuilt Docker image:
