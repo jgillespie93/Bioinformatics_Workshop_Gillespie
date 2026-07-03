@@ -97,13 +97,13 @@ https://drive.google.com/drive/folders/1IBFM_uujpjP5pBhR7YPQ2MKVVEYcRuzk?usp=sha
 Pull the prebuilt Docker image:
 
 ```bash
-docker pull jgillespie93/bioinf-workshop
+docker pull jgillespie93/bioinf-workshop:latest
 ```
 Start Jupyter Lab:
 
 ```bash
 docker run -p 8888:8888 -v $(pwd):/workspace jgillespie93/bioinf-workshop
-
+#{pwd} if on windows
 ```
 Then in your browser open
 ```bash
